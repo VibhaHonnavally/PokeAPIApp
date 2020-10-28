@@ -1,0 +1,23 @@
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.deps.json
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.runtimeconfig.json
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.runtimeconfig.dev.json
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.dll
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.pdb
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.csproj.CoreCompileInputs.cache
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.AssemblyInfoInputs.cache
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.AssemblyInfo.cs
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.dll
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.pdb
+c:\users\isham khan\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.csprojResolveAssemblyReference.cache
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.deps.json
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.runtimeconfig.json
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.runtimeconfig.dev.json
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.dll
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\bin\Debug\netcoreapp2.0\PokeAPIApp.pdb
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.csprojAssemblyReference.cache
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.AssemblyInfoInputs.cache
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.AssemblyInfo.cs
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.csproj.CoreCompileInputs.cache
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.dll
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.pdb
+C:\Users\Honey\source\repos\PokeAPIApp\PokeAPIApp\obj\Debug\netcoreapp2.0\PokeAPIApp.genruntimeconfig.cache
